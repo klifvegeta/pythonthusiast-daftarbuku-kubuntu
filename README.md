@@ -1,4 +1,4 @@
-# pythonthusiast-daftarbuku-kubuntu
+# Daftar Buku  - Sebuah Proyek Pythonthusiast
 Test penggunaan git
 
 ## Menggunakan GIT dengan Command line
