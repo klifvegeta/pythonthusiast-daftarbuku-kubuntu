@@ -17,3 +17,5 @@ Test penggunaan git
 - Membuka project yang sudah di-clone di command line
 - Merubah file
 - Mengirim file ke Github
+- Merubah di Github
+- Mem-pull dari lokal
