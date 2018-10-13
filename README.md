@@ -12,7 +12,6 @@ Test penggunaan git
 - Simpan perubahan dengan git commit
 - Kirim perubahan ke github dengan git push
 
-
 ## Menggunakan GIT dengan Pycharm
 - Membuka project yang sudah di-clone di command line
 - Merubah file
@@ -27,6 +26,10 @@ Test penggunaan git
 - Merubah kode pada branch tersebut
 - Meng-commit kode, dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
+
+## Instalasi Git
+- Menggunakan linux, cukup dengan apt install git
+- Menggunakan Windows, dengan mendownload tool Git di https://git-scm.com/downloads
 
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari hard-disk rusak
