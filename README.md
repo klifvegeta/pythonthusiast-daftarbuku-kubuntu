@@ -35,3 +35,5 @@ Test penggunaan git
 ## Kesimpulan
 - Dengan Git dan Github, kode akan aman dari hard-disk rusak
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portofolio
+## Test Git di Debian
+- Mencoba post git ke Github
